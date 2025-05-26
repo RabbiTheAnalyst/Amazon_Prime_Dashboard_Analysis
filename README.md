@@ -75,6 +75,18 @@ Whether you're a data analyst, content strategist, or entertainment enthusiast, 
 
 ---
 
+## 📂 Data & Dashboard Files
+
+Download the dashboard and dataset directly from the GitHub repository:
+
+- **Power BI Dashboard File (.pbix)**  
+  [amazon_prime.pbix](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime.pbix)
+
+- **Amazon Prime Video Titles Dataset (.csv)**  
+  [amazon_prime_titles.csv](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime_titles.csv)
+
+---
+
 ## 💡 Why This Dashboard?
 
 This dashboard is a powerful toolkit for content analysts, marketers, and data enthusiasts aiming to:
@@ -86,13 +98,6 @@ This dashboard is a powerful toolkit for content analysts, marketers, and data e
 
 ---
 
-## 📂 Data Source & Tools
-
-- **Data Source**: Amazon Prime Video metadata (1920-2021)  
-- **Tools Used**: Microsoft Power BI for data modeling, visualization, and interactivity  
-
----
-
 ## 🙏 Thank You for Exploring!
 
 Made with passion and precision to unlock the stories behind the screens of Amazon Prime Video.
@@ -100,4 +105,3 @@ Made with passion and precision to unlock the stories behind the screens of Amaz
 ---
 
 *For feedback, collaboration, or queries, feel free to reach out!*
-
