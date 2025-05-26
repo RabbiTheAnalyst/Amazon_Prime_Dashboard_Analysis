@@ -1,107 +1,124 @@
-# 🎬 Amazon Prime Video Content Analysis Dashboard
+<div align="center">
+  <img src="https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/Prime_video_logo-removebg-preview.png" width="400" alt="Project Logo"/>
+  <h1>📺 Amazon Prime Video Content Analysis Dashboard</h1>
+  <p>An interactive Power BI dashboard for deep exploration of Amazon Prime Video’s content universe</p>
+</div>
+
+---
+
+## 📌 Project Overview
+
+Dive into **Amazon Prime Video’s** vast content library using this professional **Power BI dashboard**. The project analyzes over **9,600+ titles** across **100 years (1920–2021)**, uncovering trends in genre popularity, ratings, and release patterns.
+
+---
+
+## 📊 Dashboard Features
+
+- 🎯 **Comprehensive Overview** – Analyze 9,655 titles with rich metadata  
+- 🎛️ **Interactive Filters** – Explore by rating, genre, country, and type  
+- 📈 **Release Trend Analysis** – Visualize production changes over decades  
+- 🎭 **Genre Insights** – Identify popular genre combos and their frequency  
+- 🧭 **User-Friendly Visuals** – Optimized charts for readability & exploration  
+
+---
+
+## 🔍 Key Metrics
+
+| Metric              | Value      |
+|---------------------|------------|
+| 📦 Total Titles     | 9,655      |
+| 🎬 Total Genres     | 519        |
+| 🎥 Total Directors  | 5,771      |
+| 📅 Content Range    | 1920–2021  |
+
+---
+
+## 📂 Download Files
+
+📁 **Power BI File (.pbix):**  
+[🔗 amazon_prime.pbix](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime.pbix)
+
+📁 **Dataset (.csv):**  
+[🔗 amazon_prime_titles.csv](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime_titles.csv)
+
+---
+
+## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](Amazon_Prime.png)
 
 ---
 
-## Overview
+## 📈 Visualizations Overview
 
-Dive deep into **Amazon Prime Video's** vast content universe with this **interactive Power BI dashboard**. Analyze a rich library of **9,655 titles** spanning **over a century (1920–2021)** to uncover insightful trends, genre dynamics, and audience ratings.
+### 🧩 1. Content Rating Distribution  
+- Bar chart of ratings like 13+, 16+, ALL, etc.  
+- Most frequent ratings:
+  - 13+ ➤ 1,530 titles  
+  - 16+ ➤ 1,270 titles  
+  - ALL ➤ 1,240 titles  
 
-Whether you're a data analyst, content strategist, or entertainment enthusiast, this dashboard equips you with a powerful lens to visualize and explore Amazon Prime’s content landscape like never before.
+### 🎭 2. Genre Popularity  
+- Donut charts show:
+  - Drama ➤ 34%  
+  - Comedy ➤ 33%  
+  - Drama/Surgeon ➤ 39%  
+  - Comedy/Drama ➤ 37%  
+
+### 🎬 3. Content Type Split  
+- Pie chart:
+  - Movies ➤ 7.81K (80.82%)  
+  - TV Shows ➤ 1.85K (15.19%)
+
+### 🕰️ 4. Release Trends  
+- Area chart from 1950–2020  
+- Filters to compare Movies vs TV Shows
+
+---
+## 🙏 Acknowledgment
+
+Thanks to all open-source contributors and the dataset provider for making this project possible.
 
 ---
 
-## 🔥 Key Highlights
-
-| **Metric**            | **Value**            |
-|-----------------------|----------------------|
-| **Total Titles**       | 9,655                |
-| **Unique Genres**      | 519                  |
-| **Distinct Directors** | 5,771                |
-| **Content Period**     | 1920 – 2021          |
+> 📢 *Feel free to fork, star ⭐, or reach out for collaboration!*
 
 ---
+## 🌍 Connect with Me 
 
-## ✨ Features & Capabilities
-
-- **Data-Rich Insights**  
-  Analyze a comprehensive dataset encompassing movies and TV shows, enriched with ratings, genres, release years, and more.
-
-- **Powerful Interactive Filters**  
-  Drill down by **content rating**, **genre(s)**, **country of origin**, and **content type** (Movie/TV Show).
-
-- **Temporal Trend Analysis**  
-  Observe production trends and content volume changes by decade with smooth area and line charts.
-
-- **Genre Combination Analytics**  
-  Discover dominant and niche genre pairings driving viewer interest on the platform.
-
----
-
-## 📊 Visual Breakdown
-
-### 1. Content Rating Distribution  
-- Visualize title counts across rating categories (e.g., 13+, 16+, ALL, 18+).  
-- Dominant ratings include:  
-  - **13+** (1,530 titles)  
-  - **16+** (1,270 titles)  
-  - **ALL** (1,240 titles)
-
-### 2. Genre Popularity & Combinations  
-- Donut charts revealing genre shares:  
-  - **Drama**: 34%  
-  - **Comedy**: 33%  
-  - Top genre combos:  
-    - Drama & Surgeon (39%)  
-    - Comedy & Drama (37%)
-
-### 3. Content Type Composition  
-- Pie chart depicting Movies vs. TV Shows:  
-  - **Movies** dominate with 7,810 titles (80.82%)  
-  - **TV Shows** account for 1,850 titles (15.19%)
-
-### 4. Release Trends Over Time  
-- Dynamic area charts tracking content output from 1950 through 2020.  
-- Seamless toggling between movies and TV shows reveals distinct production cycles.
-
----
-
-## 🚀 How to Use
-
-1. **Customize your view** by applying filters on ratings, genres, countries, or content types.  
-2. **Interact with visuals** by hovering or clicking for granular data insights.  
-3. **Analyze temporal shifts** to detect evolving content strategies and market trends.
-
----
-
-## 📂 Data & Dashboard Files
-
-Download the dashboard and dataset directly from the GitHub repository:
-
-- **Power BI Dashboard File (.pbix)**  
-  [amazon_prime.pbix](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime.pbix)
-
-- **Amazon Prime Video Titles Dataset (.csv)**  
-  [amazon_prime_titles.csv](https://github.com/RabbiTheAnalyst/Amazon_Prime_Dashboard_Analysis/blob/main/amazon_prime_titles.csv)
-
----
-
-## 💡 Why This Dashboard?
-
-This dashboard is a powerful toolkit for content analysts, marketers, and data enthusiasts aiming to:
-
-- Understand content diversity and audience targeting  
-- Monitor release frequency and historical trends  
-- Identify genre popularity and hybrid trends  
-- Support data-driven content strategy and decision-making  
-
----
-
-## 🙏 Thank You for Exploring!
-
-Made with passion and precision to unlock the stories behind the screens of Amazon Prime Video.
-
----
-
-*For feedback, collaboration, or queries, feel free to reach out!*
+<div align="left" style="margin-bottom: 20px;">
+  <table>
+    <tr>
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="mailto:rabbi.stat.iu@gmail.com">
+          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" alt="Email" />
+        </a>
+        <br /><sub><b>Email</b></sub>
+      </td>
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="https://www.linkedin.com/in/rabbi-the-analyst">
+          <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" alt="LinkedIn" />
+        </a>
+        <br /><sub><b>LinkedIn</b></sub>
+      </td>
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="https://github.com/RabbiTheAnalyst">
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32" alt="GitHub" />
+        </a>
+        <br /><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="https://wa.me/8801740083864">
+          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="32" alt="WhatsApp" />
+        </a>
+        <br /><sub><b>WhatsApp</b></sub>
+      </td>
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="https://t.me/Rabbi_Bhai">
+          <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="32" alt="Telegram" />
+        </a>
+        <br /><sub><b>Telegram</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
